@@ -20,5 +20,5 @@ try:
     browser.find_element(By.CSS_SELECTOR, "button.btn").click()
 
 finally:
-    time.sleep(30)
+    time.sleep(10)
     browser.quit()
