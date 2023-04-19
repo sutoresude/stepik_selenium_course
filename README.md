@@ -1,3 +1,2 @@
 # stepik_selenium_course
-hw_sel_course
-проба пера
+Репозиторий содержит quests с курса по selenium
